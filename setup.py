@@ -34,7 +34,7 @@ setuptools.setup(
         "Development Status :: 3 - Alpha"
     ],
     install_requires = [
-        'bric_analysis_libraries >= 1.1'
+        'bric_analysis_libraries >= 1.1',
         'numpy >= 1.22',
         'pandas >= 1.4'
     ],

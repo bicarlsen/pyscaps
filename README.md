@@ -11,7 +11,7 @@ Python library to analyze [SCAPS-1D](https://scaps.elis.ugent.be/) models and re
 #### Model
 > Module name: `model`
 
-Loads mode data into an object for analysis.
+Loads model data into an object for analysis.
 
 #### General
 > Module name: `gnr`
